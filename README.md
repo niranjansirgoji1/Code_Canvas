@@ -108,7 +108,7 @@ npm run dev
 
 ## 👤 Authors
 
-- **Niranjan** ([vishnukoushikkumara](https://github.com/niranjansirgoji1))
+- **Niranjan** ([niranjansirgoji1](https://github.com/niranjansirgoji1))
 
 ---
 
